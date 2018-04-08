@@ -1,0 +1,38 @@
+{
+    "coordinates": [
+                    
+                    {
+                    
+                    "targeVc": "GWLIneViewController",
+                    "title" : "自定义流水布局",
+                    "subTitle" : "cell 缩放 和悬停效果"
+                    },
+                    
+                    {
+                    
+                    "targeVc": "GWBlockViewController",
+                    "title" : "方块布局",
+                    "subTitle" : "实现 自定义 布局"
+                    },
+                    
+                    {
+                    
+                    "targeVc": "GWCircleViewController",
+                    "title" : "环形布局",
+                    "subTitle" : "实现 环形 布局"
+                    },
+                    {
+                    
+                    "targeVc": "GWChangleLayoutViewController",
+                    "title" : "切换布局",
+                    "subTitle" : "实现 不同布局 间切换"
+                    },
+                    {
+                    
+                    "targeVc": "GWWaterViewController",
+                    "title" : "瀑布流布局",
+                    "subTitle" : "实现 瀑布流 布局"
+                    },
+                    
+                    ]
+}
